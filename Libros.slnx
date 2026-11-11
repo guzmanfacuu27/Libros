@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Libros.Backend/Libros.Backend.csproj" />
+  <Project Path="Libros.Frontend/Libros.Frontend.csproj" />
+</Solution>
